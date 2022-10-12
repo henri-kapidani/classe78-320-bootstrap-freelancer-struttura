@@ -1,0 +1,33 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.header-page {
+	background-color: #1ABC9C;
+}
+
+.nav-top {
+	background-color: #2C3E50;
+	height: 3rem;
+}
+
+.img-profile {
+	display: inline-block;
+	height: 100px;
+	background-color: white;
+}
+
+.bl_card {
+	height: 150px;
+	background-color: salmon;
+	border-radius: 2rem;
+	overflow: hidden;
+}
+
+.about {
+	background-color: #1ABC9C;
+}
+
+.btn-send {
+	background-color: greenyellow;
+}
